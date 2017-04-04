@@ -1,0 +1,2 @@
+# algoprofaktorial
+tugas faktorial
